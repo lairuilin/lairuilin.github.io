@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(arcglobl.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(51,51,51);
+}
+body
+{
+	font-family: Verdana, Arial, Helvetica;
+	background-image: url(arctile.jpg); 
+}
+
+h1
+{
+	font-family: Times New Roman, Times;
+}
+h2
+{
+	font-family: Times New Roman, Times;
+}
+h3
+{
+	font-family: Times New Roman, Times;
+}
+h4
+{
+	font-family: Times New Roman, Times;
+}
+h5
+{
+	font-family: Times New Roman, Times;
+}
+h6
+{
+	font-family: Times New Roman, Times;
+}
+</style>.

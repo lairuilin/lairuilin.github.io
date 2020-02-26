@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> New Document </TITLE>
+<link rel=stylesheet type="text/css" href="styles.css">
+<style>
+a {text-decoration:none}
+a:visited {color:'#707070'} 
+a:hover {text-decoration:underline; color:"#CC0033"}
+body{ margin-top:'10'; margin-bottom:'0'}
+
+</style>
+</HEAD>
+
+<BODY>
+<center>
+[<A HREF="intro.html" target="main">introduction</A>]¡D[<A HREF="appointments.html" target="main">appointments</A>]¡D
+[<A HREF="education.html" target="main">education</A>]¡D[<A HREF="interest.html" target="main">research interest</A>]¡D
+[<A HREF="services.html" target="main">academic services</A>]¡D
+[<A HREF="projects.html" target="main">projects</A>]
+<BR>
+[<A HREF="Awards.html" target="main">awards</A>]¡D
+[<A HREF="publications/publications.html" target="main">selected publications</A>]¡D
+[<A HREF="publications2.html" target="main">chinese 
+articles</A>]¡D
+[<A HREF="alumni.html" target="main">alumni</A>]¡D
+[<a href="download.html" target="main">download</a>]¡D
+[<a href="contact.htm" target="main">contact</a>]¡D
+[<A HREF="http://chancircle.lst.ncu.edu.tw" target="span">Chan's Circle</A>]<br>
+<hr width=70% color=#999999>
+</center>
+</BODY>
+</HTML>
