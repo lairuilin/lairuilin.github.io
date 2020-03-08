@@ -1,0 +1,47 @@
+body{
+	background:	#FAF0E6;
+	margin: 0px auto;
+		/*background: repeating-linear-gradient(90deg, transparent, transparent 50px,
+		#00BFFF33 50px, 	#00BFFF33 56px, transparent 56px,
+		transparent 63px, 	#00BFFF33 63px, 	#00BFFF33 69px,
+		transparent 69px, transparent 116px, #4682B433 116px, #4682B433 166px);
+		height:297mm;
+    	width:210mm;
+    	margin: 0px auto;*/
+    }
+
+a{
+	color:black;
+	font-weight:bold;
+	font-family:Microsoft JhengHei;
+	font-size:20px;
+}
+
+
+.chanlablogo{
+	display: block;
+    margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul {
+    width: 80%;
+    margin: auto;
+
+}
+
+.content{
+	width: 70%;
+	height: 70%;
+    margin: auto;
+    border:5px solid black;
+	overflow:auto;
+	font-family:Microsoft JhengHei;
+	font-size:18px;
+ }
+.pills-paper{
+	 line-height: 160%;　　　          　/* 設定文字行距 */
+	 list-style-type:circle;
+}
